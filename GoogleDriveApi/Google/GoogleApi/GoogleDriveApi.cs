@@ -34,11 +34,11 @@ namespace GoogleApi
         /// <returns></returns>
         private UserCredential GoogleAuthorize()
         {
-            string apiPath = @"D:\С#\API\GoogleDriveApi\GoogleDriveApi\bin\Debug\credentials.json";
+            string apiPath = AppDomain.CurrentDomain.BaseDirectory + @"\credentials.json";
 
             // The file token.json stores the user's access and refresh tokens, and is created
             // automatically when the authorization flow completes for the first time.
-            string credPath = @"D:\С#\API\GoogleDriveApi\GoogleDriveApi\bin\Debug\token.json";
+            string credPath = AppDomain.CurrentDomain.BaseDirectory + @"\token.json";
 
             UserCredential credential = null;
 

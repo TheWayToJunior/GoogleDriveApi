@@ -22,3 +22,26 @@ D:\С#\API\GoogleDriveApi\GoogleDriveApi\obj\Debug\GoogleDriveApi.csproj.CoreCom
 D:\С#\API\GoogleDriveApi\GoogleDriveApi\obj\Debug\GoogleDriveApi.csproj.CopyComplete
 D:\С#\API\GoogleDriveApi\GoogleDriveApi\obj\Debug\GoogleDriveApi.exe
 D:\С#\API\GoogleDriveApi\GoogleDriveApi\obj\Debug\GoogleDriveApi.pdb
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\GoogleDriveApi.exe.config
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\GoogleDriveApi.exe
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\GoogleDriveApi.pdb
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\Google.Apis.Auth.dll
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\Google.Apis.Core.dll
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\Google.Apis.dll
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\Google.Apis.Drive.v3.dll
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\Google.Apis.PlatformServices.dll
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\Newtonsoft.Json.dll
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\Google.Apis.pdb
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\Google.Apis.xml
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\Google.Apis.Auth.pdb
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\Google.Apis.Auth.xml
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\Google.Apis.Core.pdb
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\Google.Apis.Core.xml
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\Google.Apis.Drive.v3.pdb
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\Google.Apis.Drive.v3.xml
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\Newtonsoft.Json.xml
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\obj\Debug\GoogleDriveApi.csprojAssemblyReference.cache
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\obj\Debug\GoogleDriveApi.csproj.CopyComplete
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\obj\Debug\GoogleDriveApi.exe
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\obj\Debug\GoogleDriveApi.pdb

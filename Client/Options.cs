@@ -13,8 +13,8 @@ namespace Client
 
             btnStart.Click += (s, e) =>
             {
-                var imagePath = Environment.CurrentDirectory + @"\Google_Drive_Logo.svg.ico";
-                var programmPath = @"D:\С#\API\GoogleDriveApi\GoogleDriveApi\bin\Debug\GoogleDriveApi.exe";
+                var imagePath = AppDomain.CurrentDomain.BaseDirectory + @"Google_Drive_Logo.svg.ico";
+                var programmPath = Environment.CurrentDirectory + @"\GoogleDriveApi.exe";
 
                 var key = Registry.ClassesRoot.CreateSubKey(@"Directory\shell\Google Drive");
 
@@ -31,7 +31,7 @@ namespace Client
 
             pbDelete.Click += (s, e) =>
             {
-                string credPath = @"D:\С#\API\GoogleDriveApi\GoogleDriveApi\bin\Debug\token.json";
+                string credPath = Environment.CurrentDirectory + @"\token.json";
 
                 try
                 {
