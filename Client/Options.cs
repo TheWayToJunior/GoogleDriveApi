@@ -23,13 +23,13 @@ namespace Client
 
             };
 
-            pbDeleteProgramm.Click += (s, e) =>
+            btnDelete.Click += (s, e) =>
             {
                 Registry.ClassesRoot.CreateSubKey(@"Directory\shell\Google Drive").DeleteSubKey("command");
                 Registry.ClassesRoot.CreateSubKey(@"Directory\shell").DeleteSubKey("Google Drive");
             };
 
-            pbDelete.Click += (s, e) =>
+            btnDeleteToken.Click += (s, e) =>
             {
                 string credPath = Environment.CurrentDirectory + @"\token.json";
 
@@ -40,7 +40,7 @@ namespace Client
                 catch (Exception ex)
                 {
 
-                    MessageBox.Show(ex.Message);
+                    MessageBox.Show(ex.Message, string.Empty, MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
             };
 

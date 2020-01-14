@@ -1,0 +1,9 @@
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\Client.exe.config
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\Client.exe
+D:\С#\.NET Framework\GoogleDriveApi\GoogleDriveApi\bin\Debug\Client.pdb
+D:\С#\.NET Framework\GoogleDriveApi\Client\obj\Debug\SetupClient.csprojAssemblyReference.cache
+D:\С#\.NET Framework\GoogleDriveApi\Client\obj\Debug\Client.Options.resources
+D:\С#\.NET Framework\GoogleDriveApi\Client\obj\Debug\Client.Properties.Resources.resources
+D:\С#\.NET Framework\GoogleDriveApi\Client\obj\Debug\SetupClient.csproj.GenerateResource.cache
+D:\С#\.NET Framework\GoogleDriveApi\Client\obj\Debug\Client.exe
+D:\С#\.NET Framework\GoogleDriveApi\Client\obj\Debug\Client.pdb

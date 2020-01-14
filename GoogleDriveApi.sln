@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleDriveApi", "GoogleDriveApi\GoogleDriveApi.csproj", "{5D181217-921E-44EA-90B3-11E10412579A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{7E263AA8-3646-4E91-B91C-6FBF7CDAD775}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetupClient", "Client\SetupClient.csproj", "{7E263AA8-3646-4E91-B91C-6FBF7CDAD775}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
